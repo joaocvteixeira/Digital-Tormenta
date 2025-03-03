@@ -1,4 +1,4 @@
-_Repositório de estudos feito para um projeto open-source solicitado para prosseguir a Formação GitHub Certification da DIO._
+_Repositório de estudos feito para um projeto open-source solicitado para prosseguir a Formação GitHub Certification da DIO._  
 Nesse repositório eu documento e trago soluções automáticas para o [RPG de mesa Tormenta 20: Jogo do Ano](https://jamboeditora.com.br/produto/tormenta20-edicao-jogo-do-ano/)
 
 ## Documentações na Wiki
